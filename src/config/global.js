@@ -91,13 +91,15 @@ export default {
   complementario: [
     {
       tema: 'Sistemas numéricos',
-      referencia: 'Electrónica FP. (2018). Sistemas numéricos: Binario, Decimal y Hexadecimal.',
+      referencia:
+        'Electrónica FP. (2018). Sistemas numéricos: Binario, Decimal y Hexadecimal.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=g9-MRBBcvdg',
     },
     {
       tema: 'Sistema binario',
-      referencia: 'Matemáticas profe Alex. (2023). Números Binarios | Introducción',
+      referencia:
+        'Matemáticas profe Alex. (2023). Números Binarios | Introducción',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=F1xB6oxmMWQ&t=52s',
     },
@@ -107,65 +109,78 @@ export default {
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=-V4AbHyR_x4',
     },
-    
   ],
   glosario: [
     {
       termino: 'Álgebra de Boole',
-      significado: 'rama del álgebra que trabaja con operaciones lógicas sobre valores binarios (0 y 1).',
+      significado:
+        'rama del álgebra que trabaja con operaciones lógicas sobre valores binarios (0 y 1).',
     },
     {
       termino: 'Circuitos digitales',
-      significado: 'sistemas electrónicos que procesan información mediante niveles lógicos (0 y 1).',
+      significado:
+        'sistemas electrónicos que procesan información mediante niveles lógicos (0 y 1).',
     },
     {
       termino: 'Multiplicación lógica',
-      significado: 'operación booleana que devuelve 1 solo si todas las entradas son 1.',
+      significado:
+        'operación booleana que devuelve 1 solo si todas las entradas son 1.',
     },
     {
       termino: 'Negación',
-      significado: 'operación booleana que invierte el estado lógico, cambiando 0 a 1 y viceversa.',
+      significado:
+        'operación booleana que invierte el estado lógico, cambiando 0 a 1 y viceversa.',
     },
     {
       termino: 'Sistema binario',
-      significado: 'sistema numérico de base 2 que utiliza los dígitos 0 y 1, empleado en sistemas electrónicos.',
+      significado:
+        'sistema numérico de base 2 que utiliza los dígitos 0 y 1, empleado en sistemas electrónicos.',
     },
     {
       termino: 'Sistema decimal',
-      significado: 'sistema numérico de base 10 que utiliza los dígitos del 0 al 9.',
+      significado:
+        'sistema numérico de base 10 que utiliza los dígitos del 0 al 9.',
     },
     {
       termino: 'Sistemas numéricos',
-      significado: 'métodos de representación de números en diferentes bases como decimal, binario, octal y hexadecimal.',
+      significado:
+        'métodos de representación de números en diferentes bases como decimal, binario, octal y hexadecimal.',
     },
     {
       termino: 'Suma lógica (+)',
-      significado: 'operación booleana que devuelve 1 si al menos una entrada es 1.',
+      significado:
+        'operación booleana que devuelve 1 si al menos una entrada es 1.',
     },
     {
       termino: 'Tabla de verdad',
-      significado: 'representación de todas las posibles combinaciones de entrada y salida de una función lógica.',
+      significado:
+        'representación de todas las posibles combinaciones de entrada y salida de una función lógica.',
     },
     {
       termino: 'Teorema de Morgan',
-      significado: 'regla del álgebra de Boole que simplifica la negación de expresiones lógicas compuestas.',
+      significado:
+        'regla del álgebra de Boole que simplifica la negación de expresiones lógicas compuestas.',
     },
   ],
   referencias: [
     {
-      referencia: 'Carlospes, (s.f), Sistema de numeración romano. (s.f.). En Sitio web de Carlos Pes.',
-      link: 'https://www.carlospes.com/curso_representacion_datos/02_01_sistema_de_numeracion_romano.php',
+      referencia:
+        'Carlospes, (s.f), Sistema de numeración romano. (s.f.). En Sitio web de Carlos Pes.',
+      link:
+        'https://www.carlospes.com/curso_representacion_datos/02_01_sistema_de_numeracion_romano.php',
     },
     {
       referencia: 'Cidead, (s.f), material interactivo sobre Lógica Binaria.',
       link: '',
     },
     {
-      referencia: 'Junta de Extremadura consejería de educación y empleo, (s.f), Laboratorio virtual de Lógica Binaria.',
+      referencia:
+        'Junta de Extremadura consejería de educación y empleo, (s.f), Laboratorio virtual de Lógica Binaria.',
       link: '',
     },
     {
-      referencia: 'Lloris, A. (2006). Capítulo 1: Introducción a los Sistemas digitales. En Sistemas Digitales 2 Ed. McGraw Hill.',
+      referencia:
+        'Lloris, A. (2006). Capítulo 1: Introducción a los Sistemas digitales. En Sistemas Digitales 2 Ed. McGraw Hill.',
       link: '',
     },
   ],
@@ -191,7 +206,8 @@ export default {
         {
           nombre: 'Magda Melissa Rodríguez Celis',
           cargo: 'Experto temático',
-          centro: 'Centro de Desarrollo Agroempresarial - Regional Cundinamarca',
+          centro:
+            'Centro de Desarrollo Agroempresarial - Regional Cundinamarca',
         },
         {
           nombre: 'Paola Alexandra Moya',
