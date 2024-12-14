@@ -7,7 +7,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="La imagen muestra un diagrama de los sistemas numéricos, que incluyen el decimal (0-9), octal (0-7), hexadecimal (0-15) y binario (0 y 1), este último usado en circuitos integrados. Dentro del sistema binario se encuentra el álgebra de Boole, que abarca operaciones (+, ·, negación), funciones relacionadas con leyes, propiedades y el Teorema de Morgan, así como ecuaciones y expresiones lógicas. ")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="La imagen muestra un diagrama de los sistemas numéricos, que incluyen el decimal (0-9), octal (0-7), hexadecimal (0-15) y binario (0 y 1), este último usado en circuitos integrados. Dentro del sistema binario se encuentra el álgebra de Boole, que abarca operaciones (+, ·, negación), funciones relacionadas con leyes, propiedades y el teorema de Morgan, así como ecuaciones y expresiones lógicas. ")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

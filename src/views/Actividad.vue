@@ -33,12 +33,12 @@ export default {
             {
               id: 'a',
               texto: 'Verdadero.',
-              esCorrecta: false,
+              esCorrecta: true,
             },
             {
               id: 'b',
               texto: 'Falso.',
-              esCorrecta: true,
+              esCorrecta: false,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -191,7 +191,7 @@ export default {
         {
           id: 9,
           texto:
-            'El Teorema de Morgan no es útil para simplificar expresiones lógicas.',
+            'El teorema de Morgan no es útil para simplificar expresiones lógicas.',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [

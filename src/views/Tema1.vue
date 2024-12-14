@@ -73,10 +73,10 @@
                   |2158 = 210³ + 110² + 510¹ + 8*10⁰
             .col-lg-6
               .p-5
-                p Los cuatro dígitos se multiplican por una potencia de 10 y Cuanto más a la izquierda se sitúe el dígito, mayor será la potencia de diez por la que se multiplica.
+                p Los cuatro dígitos se multiplican por una potencia de 10 y cuanto más a la izquierda se sitúe el dígito, mayor será la potencia de diez por la que se multiplica.
       .col-lg-3.col-7: img(src='@/assets/curso/temas/6.svg', alt='')
     .titulo-tres: h3 Sistema octal
-    p.mb-4 Utiliza solo ocho dígitos (0, 1, 2...7) para representar cualquier número.El peso está dado en potencias de 8.
+    p.mb-4 Utiliza solo ocho dígitos (0, 1, 2...7) para representar cualquier número. El peso está dado en potencias de 8.
       br
       br
       |A continuación se representa el número 4156 que está octal en decimal:
@@ -109,10 +109,8 @@
             .col-lg-auto.mb-lg-0.mb-3: img(src='@/assets/curso/temas/7.svg', alt='' style='width: 100px') 
       .col-lg-4.col-7: img(src='@/assets/curso/temas/8.svg', alt='')
     .titulo-tres: h3 Sistema hexadecimal
-    p.mb-4 Se llama hexadecimal porque utiliza dieciséis dígitos (0, 1, 2...9, A, B, C, D, E, F).
-      br
-      br
-      |El peso está dado en potencias de 16.
+    p.mb-3 Se llama hexadecimal porque utiliza dieciséis dígitos (0, 1, 2...9, A, B, C, D, E, F).
+    p.mb-4 El peso está dado en potencias de 16.
     .row.justify-content-center.mb-5
       .col-lg-6.mb-lg-0.mb-3
         .tarjeta.p-4(style="background-color: #D4F0E0 ")

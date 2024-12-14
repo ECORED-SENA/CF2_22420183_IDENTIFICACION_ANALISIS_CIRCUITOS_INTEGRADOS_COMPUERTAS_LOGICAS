@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Sistemas numéricos',
     descripcionCurso:
-      'Los sistemas numéricos representan valores en diversas bases, como decimal, binario, octal y hexadecimal, cada uno con aplicaciones específicas. El álgebra de Boole, clave en sistemas digitales, utiliza operaciones lógicas (suma, multiplicación y negación) para simplificar circuitos electrónicos. Propiedades como identidad, inversa y el Teorema de Morgan optimizan procesos y facilitan el análisis de sistemas electrónicos y computacionales.',
+      'Los sistemas numéricos representan valores en diversas bases, como decimal, binario, octal y hexadecimal, cada uno con aplicaciones específicas. El álgebra de Boole, clave en sistemas digitales, utiliza operaciones lógicas (suma, multiplicación y negación) para simplificar circuitos electrónicos. Propiedades como identidad, inversa y el teorema de Morgan optimizan procesos y facilitan el análisis de sistemas electrónicos y computacionales.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -235,7 +235,7 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Luis Gabriel Urueta Alvarez',
+          nombre: 'Jaime Hernán Tejada LLano',
           cargo: 'Validador y vinculador de recursos educativos digitales',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },

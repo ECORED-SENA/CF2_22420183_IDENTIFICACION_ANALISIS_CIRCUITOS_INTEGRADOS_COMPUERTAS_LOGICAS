@@ -69,7 +69,7 @@
               .col-lg.mb-lg-0.mb-3.order-2: p.mb-0.fw-bold Continúe hasta que no quede número decimal.
               .col-lg-auto.mb-lg-0.mb-3: img(src='@/assets/curso/temas/16.svg', alt='' style='width: 30px')
     .titulo-tres: h3 Álgebra de Boole
-    p.mb-4 El Álgebra de Boole se utiliza para programar circuitos integrados a través de números binarios y realizar operaciones binarias. Esto permite predecir el comportamiento en la entrada y salida del circuito.
+    p.mb-4 El álgebra de Boole se utiliza para programar circuitos integrados a través de números binarios y realizar operaciones binarias. Esto permite predecir el comportamiento en la entrada y salida del circuito.
       br
       br
       |Incluye tres operaciones fundamentales:
@@ -89,7 +89,7 @@
                 tr
                   td (Es el mismo símbolo de la suma que usualmente usamos, pero no es la misma operación)
                   td (Es el mismo símbolo del producto o multiplicación que usualmente usamos, pero no es la misma operación)
-                  td (Permite invertir o negar el estado lógico, bit o dígito así)
+                  td (Permite invertir o negar el estado lógico, #[em bit] o dígito así)
                 tr
                   td Entradas | Salida
                   td Entradas | Salida
@@ -202,12 +202,12 @@
                 td 1 1 1
                 td 1
       .col-lg-5.col-7: img(src='@/assets/curso/temas/18.png', alt='')
-    p.mb-4 El álgebra de Boole se basa en un conjunto de propiedades y reglas fundamentales que permiten simplificar y analizar expresiones lógicas. Estas reglas son esenciales para optimizar circuitos y resolver problemas lógicos de manera estructurada. A continuación, se presentan las principales propiedades y ejemplos asociados
+    p.mb-4 El álgebra de Boole se basa en un conjunto de propiedades y reglas fundamentales que permiten simplificar y analizar expresiones lógicas. Estas reglas son esenciales para optimizar circuitos y resolver problemas lógicos de manera estructurada. A continuación, se presentan las principales propiedades y ejemplos asociados.
     .row.justify-content-center.mb-5
       .col-lg-7.mb-lg-0.mb-3
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
           h5 Tabla 5.
-          span Propiedades o Reglas del Álgebra de Boole
+          span Propiedades o reglas del álgebra de Boole
         .tabla-a.color-acento-contenido.mb-5
           table.text-center
             thead(style="background-color: #F3F8FF ")
