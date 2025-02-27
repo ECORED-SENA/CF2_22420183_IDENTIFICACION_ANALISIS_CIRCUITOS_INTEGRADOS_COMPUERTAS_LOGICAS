@@ -1,9 +1,8 @@
 <template lang="pug">
 .curso-main-container.introduccion
   BannerInterno
-  .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5.bg-1
-  
-    .titulo-principal.color-acento-contenido
+  .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span
           i.fas.fa-info
@@ -18,8 +17,8 @@
         .row.justify-content-center.align-items-center
           .col-lg.mb-lg-0.mb-3: p.mb-0 Las propiedades del álgebra de Boole, como la identidad, inversa, conmutativa y el teorema de Morgan, proporcionan herramientas esenciales para simplificar y resolver expresiones lógicas complejas. Estas propiedades no solo facilitan el análisis y diseño de circuitos, sino que también son clave para optimizar procesos en la programación y el funcionamiento de sistemas electrónicos, consolidando su relevancia en la ingeniería y la informática.
           .col-lg-auto: img(src='@/assets/curso/temas/2.svg', alt='' style='width: 85px')
-      .col-lg-4.col-7: img(src='@/assets/curso/temas/3.png', alt='')
-    
+      .col-lg-4.col-7(data-aos="fade-left"): img(src='@/assets/curso/temas/3.png', alt='')
+
 </template>
 
 <script>

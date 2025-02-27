@@ -9,7 +9,7 @@
   </template>
 
 <script>
-import Actividad from '@/components/actividad/Actividad.vue'
+import Actividad from 'ecored-pkg-fliz/plugin/components/actividad/Actividad.vue'
 export default {
   name: 'ActividadDidactica',
   components: {
@@ -20,7 +20,7 @@ export default {
       tema: 'Sistemas numéricos y álgebra de Boole',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Identificar  los conceptos fundamentales de los sistemas numéricos y el álgebra de Boole, incluyendo sus aplicaciones, propiedades, y métodos de conversión entre diferentes bases numéricas.',
+        '<b> Objetivo:</b> identificar  los conceptos fundamentales de los sistemas numéricos y el álgebra de Boole, incluyendo sus aplicaciones, propiedades, y métodos de conversión entre diferentes bases numéricas.',
       barajarPreguntas: true,
       preguntas: [
         {
